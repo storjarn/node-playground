@@ -1,0 +1,34 @@
+{
+  "name": "node-playground",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "zonar": "~0.6.3",
+    "zombie-net": "0.0.0",
+    "rtpmidi": "~0.1.7",
+    "network-range": "~0.1.0",
+    "openport": "0.0.3",
+    "xumlib": "0.0.4",
+    "nanodiscover": "~1.0.2",
+    "ping-all": "~0.1.2",
+    "netsim": "~1.0.4",
+    "sockemitter": "~0.3.0",
+    "netkit": "0.0.4",
+    "network-tools": "0.0.1",
+    "discovery-network": "~0.6.1",
+    "network-monitor": "~1.0.2",
+    "protoman": "0.0.5",
+    "network-component": "0.0.1",
+    "network-constants": "~0.12.0-alpha",
+    "network-generation": "~0.1.0",
+    "network": "~0.1.3",
+    "network-calculator": "~1.2.0",
+    "portscanner": "~1.0.0"
+  }
+}
